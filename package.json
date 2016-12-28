@@ -8,6 +8,7 @@
 		"run:ios": "react-native run-ios"
 	},
 	"dependencies": {
+		"firebase": "^3.6.4",
 		"react": "15.4.1",
 		"react-native": "0.39.2"
 	},
