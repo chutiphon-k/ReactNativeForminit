@@ -39,4 +39,8 @@ npm-debug.log
 buck-out/
 \.buckd/
 android/app/libs
+<<<<<<< HEAD
 *.keystore
+=======
+*.keystore
+>>>>>>> dev-manager
